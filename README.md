@@ -10,6 +10,6 @@ The full database can be downloaded in: https://drive.google.com/open?id=1zCclYW
 
 FOLDERS:
 
-  -Files: Links between Cores and Clusters, Cores and Projects, Cores and Tags (including number of tags), considering the  use of parameters (minPnts = 4, epsilon = 1) in NetSCAN.
-  
-  -instances: Instances modeled as a contribution network. These are divided into 18 partitions, from January,2017 to June,2018.
+   	-Files: Links between Cores and Clusters, Cores and Projects, Cores and Tags (including number of tags), considering the  use of parameters (minPnts = 4, epsilon = 1) in NetSCAN.
+    
+    -Instances: Instances modeled as a contribution network. These are divided into 18 partitions, from January,2017 to June,2018.
