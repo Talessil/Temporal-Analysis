@@ -1,0 +1,841 @@
+"author_id";"name";"count"
+20809;"author ready";13
+20809;"benchmark";1
+20809;"buffer";2
+20809;"C++";3
+20809;"console";1
+20809;"doc";2
+20809;"dont-land-on-v4.x";2
+20809;"dont-land-on-v6.x";2
+20809;"dont-land-on-v8.x";3
+20809;"dont-land-on-v9.x";1
+20809;"fast-track";4
+20809;"http";7
+20809;"http2";1
+20809;"in progress";1
+20809;"lib / src";2
+20809;"net";1
+20809;"semver-major";2
+20809;"stream";1
+20809;"test";2
+20809;"timers";4
+20809;"tls";2
+20809;"util";2
+20809;"v9.x";1
+52195;"author ready";2
+52195;"dont-land-on-v4.x";2
+52195;"dont-land-on-v6.x";2
+52195;"dont-land-on-v8.x";2
+52195;"dont-land-on-v9.x";2
+52195;"fast-track";1
+52195;"http";1
+52195;"stream";1
+52195;"test";1
+96947;"author ready";1
+96947;"build";2
+96947;"doc";1
+96947;"in progress";1
+96947;"lts-watch-v6.x";1
+96947;"lts-watch-v8.x";1
+96947;"meta";1
+96947;"tools";1
+96947;"windows";1
+169553;"approved";2
+169553;"area/kubeadm";1
+169553;"cncf-cla: yes";2
+169553;"kind/cleanup";1
+169553;"lgtm";2
+169553;"release-note-none";2
+169553;"retest-not-required-docs-only";1
+169553;"sig/cluster-lifecycle";2
+169553;"sig/scheduling";1
+169553;"size/XS";2
+243674;"Bug";12
+243674;"Cache";7
+243674;"Console";1
+243674;"Debug";1
+243674;"DependencyInjection";3
+243674;"Deprecation";3
+243674;"Feature";7
+243674;"FrameworkBundle";3
+243674;"HttpFoundation";1
+243674;"HttpKernel";3
+243674;"Ready";1
+243674;"Routing";1
+243674;"SecurityBundle";1
+243674;"Status: Needs Review";5
+243674;"Status: Needs Work";1
+243674;"Status: Reviewed";17
+243674;"Translator";1
+243674;"VarDumper";1
+243674;"WebProfilerBundle";2
+243674;"Yaml";1
+291301;"experimental";1
+291301;"fs";1
+291301;"promises";1
+376661;"author ready";2
+376661;"doc";2
+376661;"dont-land-on-v4.x";1
+376661;"dont-land-on-v6.x";1
+376661;"dont-land-on-v8.x";1
+376661;"dont-land-on-v9.x";1
+376661;"http2";1
+376661;"land-on-v8.x";1
+376661;"lib / src";1
+376661;"notable-change";1
+376661;"semver-minor";1
+376661;"stream";1
+376661;"test";1
+408368;"Bug";1
+408368;"Feature";3
+408368;"FrameworkBundle";1
+408368;"MonologBridge";1
+408368;"PhpUnitBridge";2
+408368;"Status: Reviewed";5
+439929;"author ready";1
+439929;"C++";2
+439929;"doc";1
+439929;"dont-land-on-v4.x";1
+439929;"dont-land-on-v6.x";1
+439929;"dont-land-on-v8.x";1
+439929;"fast-track";2
+439929;"http2";2
+439929;"lib / src";3
+439929;"repl";1
+439929;"semver-major";1
+439929;"semver-minor";1
+439929;"trace_events";2
+439929;"url";1
+439929;"util";1
+439929;"v10.x";1
+576341;"approved";9
+576341;"cherrypick-candidate";1
+576341;"cncf-cla: yes";9
+576341;"lgtm";8
+576341;"release-note";1
+576341;"release-note-none";8
+576341;"sig/cli";1
+576341;"size/L";2
+576341;"size/M";2
+576341;"size/S";1
+576341;"size/XL";1
+576341;"size/XS";2
+576341;"size/XXL";1
+647318;"approved";10
+647318;"area/kubeadm";5
+647318;"cncf-cla: no";5
+647318;"cncf-cla: yes";5
+647318;"do-not-merge";1
+647318;"do-not-merge/blocked-paths";1
+647318;"do-not-merge/hold";1
+647318;"do-not-merge/release-note-label-needed";7
+647318;"kind/api-change";3
+647318;"kind/new-api";1
+647318;"kind/old-docs";2
+647318;"lgtm";3
+647318;"needs-rebase";1
+647318;"release-note-none";4
+647318;"retest-not-required-docs-only";2
+647318;"sig/cluster-lifecycle";5
+647318;"sig/scheduling";4
+647318;"size/M";3
+647318;"size/XL";1
+647318;"size/XS";1
+647318;"size/XXL";6
+676637;"approved";21
+676637;"cherrypick-approved";6
+676637;"cncf-cla: yes";23
+676637;"do-not-merge/cherry-pick-not-approved";1
+676637;"do-not-merge/hold";2
+676637;"kind/bug";5
+676637;"lgtm";21
+676637;"milestone/incomplete-labels";1
+676637;"priority/important-soon";3
+676637;"release-note";10
+676637;"release-note-none";6
+676637;"sig/azure";3
+676637;"sig/network";2
+676637;"sig/node";2
+676637;"sig/storage";3
+676637;"sig/windows";5
+676637;"size/L";7
+676637;"size/M";1
+676637;"size/S";6
+676637;"size/XL";2
+676637;"size/XS";7
+676637;"status/approved-for-milestone";4
+718899;"author ready";20
+718899;"buffer";12
+718899;"build";1
+718899;"CI / flaky test";1
+718899;"console";2
+718899;"doc";16
+718899;"dont-land-on-v4.x";2
+718899;"dont-land-on-v6.x";2
+718899;"dont-land-on-v8.x";2
+718899;"dont-land-on-v9.x";2
+718899;"fast-track";18
+718899;"in progress";1
+718899;"python";1
+718899;"test";9
+718899;"tools";2
+730123;"approved";4
+730123;"cncf-cla: yes";4
+730123;"lgtm";4
+730123;"priority/critical-urgent";1
+730123;"queue/critical-fix";1
+730123;"release-note";1
+730123;"release-note-none";3
+730123;"retest-not-required-docs-only";1
+730123;"size/L";1
+730123;"size/XS";2
+730123;"size/XXL";1
+804625;"Bug";3
+804625;"Cache";1
+804625;"DX";3
+804625;"Feature";5
+804625;"FrameworkBundle";2
+804625;"Messenger";12
+804625;"SecurityBundle";1
+804625;"Status: Needs Review";1
+804625;"Status: Reviewed";14
+899444;"author ready";7
+899444;"backported-to-v10.x";1
+899444;"baking-for-lts";1
+899444;"benchmark";1
+899444;"build";2
+899444;"C++";7
+899444;"crypto";3
+899444;"dont-land-on-v10.x";1
+899444;"dont-land-on-v4.x";1
+899444;"dont-land-on-v6.x";5
+899444;"dont-land-on-v8.x";7
+899444;"dont-land-on-v9.x";4
+899444;"duplicate";1
+899444;"fast-track";5
+899444;"http2";1
+899444;"land-on-v8.x";1
+899444;"lib / src";2
+899444;"net";1
+899444;"npm";1
+899444;"repl";1
+899444;"test";1
+899444;"tools";1
+899444;"trace_events";1
+899444;"tty";1
+899444;"util";2
+899444;"V8 Engine";1
+899444;"windows";1
+899444;"zlib";1
+903617;"approved";4
+903617;"area/kubeadm";1
+903617;"area/kubelet";2
+903617;"area/kubelet-api";4
+903617;"cncf-cla: yes";4
+903617;"kind/bug";2
+903617;"kind/feature";2
+903617;"lgtm";4
+903617;"milestone/incomplete-labels";1
+903617;"priority/important-soon";3
+903617;"release-note";2
+903617;"release-note-none";2
+903617;"sig/cluster-lifecycle";2
+903617;"sig/node";4
+903617;"size/L";1
+903617;"size/M";1
+903617;"size/XS";1
+903617;"size/XXL";1
+903617;"status/approved-for-milestone";2
+915544;"area/kubeadm";4
+915544;"cncf-cla: yes";4
+915544;"do-not-merge/release-note-label-needed";4
+915544;"do-not-merge/work-in-progress";4
+915544;"needs-rebase";2
+915544;"sig/cluster-lifecycle";4
+915544;"size/L";4
+921145;"Bug";1
+921145;"Security";1
+921145;"Status: Reviewed";1
+980082;"approved";24
+980082;"area/client-libraries";1
+980082;"area/test";1
+980082;"cherrypick-approved";4
+980082;"cncf-cla: yes";24
+980082;"kind/bug";4
+980082;"kind/failing-test";2
+980082;"kind/flake";1
+980082;"lgtm";23
+980082;"priority/important-soon";3
+980082;"queue/fix";4
+980082;"release-note";5
+980082;"release-note-none";16
+980082;"sig/api-machinery";4
+980082;"sig/auth";4
+980082;"sig/cli";5
+980082;"sig/cluster-lifecycle";1
+980082;"sig/node";1
+980082;"sig/scalability";1
+980082;"sig/scheduling";1
+980082;"size/L";6
+980082;"size/M";8
+980082;"size/S";2
+980082;"size/XL";1
+980082;"size/XS";6
+980082;"size/XXL";1
+980082;"status/approved-for-milestone";2
+1047696;"Bug";3
+1047696;"Config";1
+1047696;"DependencyInjection";2
+1047696;"Deprecation";1
+1047696;"Feature";1
+1047696;"Messenger";1
+1047696;"Status: Reviewed";4
+1443911;"author ready";1
+1443911;"build";2
+1443911;"doc";1
+1443911;"dont-land-on-v4.x";2
+1443911;"dont-land-on-v6.x";2
+1443911;"dont-land-on-v8.x";1
+1443911;"dont-land-on-v9.x";1
+1443911;"net";2
+1443911;"performance";1
+1443911;"stream";3
+1443911;"test";1
+1443911;"url-whatwg";1
+1443911;"v9.x";1
+1443911;"zlib";1
+1538624;"author ready";1
+1538624;"doc";2
+1538624;"fast-track";2
+1538624;"in progress";1
+1538624;"lib / src";1
+1538624;"repl";1
+1701782;"approved";2
+1701782;"cncf-cla: yes";3
+1701782;"kind/api-change";1
+1701782;"kind/feature";2
+1701782;"lgtm";2
+1701782;"milestone/needs-approval";1
+1701782;"priority/important-soon";1
+1701782;"release-note";2
+1701782;"release-note-none";1
+1701782;"sig/scheduling";2
+1701782;"size/L";2
+1701782;"size/M";1
+1745006;"approved";5
+1745006;"cherrypick-approved";2
+1745006;"cncf-cla: yes";5
+1745006;"kind/api-change";2
+1745006;"kind/bug";1
+1745006;"lgtm";5
+1745006;"priority/important-soon";1
+1745006;"release-note";2
+1745006;"release-note-none";1
+1745006;"sig/node";2
+1745006;"sig/storage";4
+1745006;"size/L";2
+1745006;"size/M";2
+1745006;"size/XXL";1
+1745006;"status/approved-for-milestone";1
+1754678;"Deprecation";1
+1754678;"Feature";1
+1754678;"HttpKernel";1
+1754678;"Security";1
+1754678;"Status: Reviewed";2
+1787169;"approved";19
+1787169;"cncf-cla: yes";24
+1787169;"do-not-merge/hold";2
+1787169;"do-not-merge/release-note-label-needed";3
+1787169;"kind/api-change";3
+1787169;"kind/failing-test";1
+1787169;"kind/feature";3
+1787169;"lgtm";14
+1787169;"lifecycle/stale";1
+1787169;"milestone/needs-approval";1
+1787169;"milestone/removed";1
+1787169;"needs-rebase";1
+1787169;"priority/important-soon";3
+1787169;"queue/fix";2
+1787169;"release-note";2
+1787169;"release-note-none";19
+1787169;"sig/api-machinery";1
+1787169;"sig/auth";7
+1787169;"sig/node";1
+1787169;"sig/scheduling";1
+1787169;"sig/storage";1
+1787169;"size/L";3
+1787169;"size/M";5
+1787169;"size/S";3
+1787169;"size/XL";2
+1787169;"size/XS";10
+1787169;"size/XXL";1
+1787169;"status/approved-for-milestone";1
+1957048;"Bug";11
+1957048;"DependencyInjection";1
+1957048;"Finder";1
+1957048;"Form";1
+1957048;"FrameworkBundle";3
+1957048;"HttpKernel";1
+1957048;"Routing";1
+1957048;"Status: Needs Review";4
+1957048;"Status: Reviewed";7
+1957048;"TwigBundle";3
+2028198;"Bug";2
+2028198;"Deprecation";1
+2028198;"Feature";1
+2028198;"Form";2
+2028198;"Messenger";6
+2028198;"Status: Reviewed";8
+2211145;"Bug";2
+2211145;"Console";1
+2211145;"DebugBundle";1
+2211145;"Feature";2
+2211145;"FrameworkBundle";1
+2211145;"Messenger";3
+2211145;"Status: Reviewed";8
+2211145;"VarDumper";4
+2352663;"author ready";2
+2352663;"build";1
+2352663;"C++";2
+2352663;"dont-land-on-v4.x";2
+2352663;"dont-land-on-v6.x";3
+2352663;"dont-land-on-v8.x";3
+2352663;"dont-land-on-v9.x";3
+2352663;"errors";2
+2352663;"ES Modules";1
+2352663;"lib / src";3
+2352663;"meta";1
+2352663;"process";1
+2352663;"semver-major";2
+2352663;"semver-minor";1
+2352663;"V8 Engine";5
+2352663;"v8.x";1
+2352663;"v9.x";3
+3109072;"author ready";8
+3109072;"backported-to-v10.x";3
+3109072;"C++";6
+3109072;"crypto";10
+3109072;"deprecations";1
+3109072;"doc";6
+3109072;"dont-land-on-v4.x";3
+3109072;"dont-land-on-v6.x";3
+3109072;"dont-land-on-v8.x";3
+3109072;"dont-land-on-v9.x";3
+3109072;"fast-track";5
+3109072;"semver-major";2
+3109072;"semver-minor";2
+3902875;"approved";14
+3902875;"cncf-cla: yes";18
+3902875;"do-not-merge/hold";1
+3902875;"do-not-merge/work-in-progress";1
+3902875;"kind/api-change";1
+3902875;"lgtm";15
+3902875;"lifecycle/stale";1
+3902875;"needs-rebase";2
+3902875;"release-note-none";18
+3902875;"sig/cli";1
+3902875;"sig/network";1
+3902875;"size/L";7
+3902875;"size/M";2
+3902875;"size/S";1
+3902875;"size/XL";4
+3902875;"size/XS";2
+3902875;"size/XXL";2
+4299420;"author ready";4
+4299420;"buffer";3
+4299420;"build";1
+4299420;"C++";9
+4299420;"dont-land-on-v4.x";2
+4299420;"dont-land-on-v6.x";2
+4299420;"dont-land-on-v8.x";1
+4299420;"dont-land-on-v9.x";1
+4299420;"errors";1
+4299420;"fast-track";2
+4299420;"lib / src";5
+4299420;"repl";1
+4299420;"semver-major";3
+4299420;"semver-minor";1
+4299420;"vm";2
+5013060;"approved";4
+5013060;"area/kubeadm";4
+5013060;"cherrypick-approved";1
+5013060;"cherrypick-candidate";1
+5013060;"cncf-cla: yes";4
+5013060;"kind/bug";1
+5013060;"lgtm";3
+5013060;"needs-rebase";1
+5013060;"priority/important-soon";1
+5013060;"release-note";2
+5013060;"release-note-none";2
+5013060;"retest-not-required-docs-only";1
+5013060;"sig/cluster-lifecycle";4
+5013060;"size/L";1
+5013060;"size/S";1
+5013060;"size/XL";1
+5013060;"size/XS";1
+5013060;"status/approved-for-milestone";1
+5445507;"author ready";2
+5445507;"build";1
+5445507;"test";2
+5445507;"tools";2
+5449021;"approved";5
+5449021;"area/custom-resources";1
+5449021;"cherrypick-approved";2
+5449021;"cncf-cla: yes";9
+5449021;"kind/bug";2
+5449021;"lgtm";6
+5449021;"milestone/incomplete-labels";2
+5449021;"needs-rebase";1
+5449021;"release-note";7
+5449021;"sig/api-machinery";1
+5449021;"sig/cli";1
+5449021;"sig/node";1
+5449021;"sig/storage";1
+5449021;"sig/windows";1
+5449021;"size/L";5
+5449021;"size/M";1
+5449021;"size/S";2
+5449021;"size/XS";1
+5449021;"status/approved-for-milestone";2
+5459214;"approved";1
+5459214;"cncf-cla: yes";1
+5459214;"kind/technical-debt";1
+5459214;"lgtm";1
+5459214;"release-note-none";1
+5459214;"sig/storage";1
+5459214;"size/XXL";1
+5595220;"approved";2
+5595220;"cncf-cla: yes";2
+5595220;"lgtm";2
+5595220;"release-note-none";2
+5595220;"size/S";1
+5595220;"size/XL";1
+5952481;"author ready";1
+5952481;"build";3
+5952481;"C++";3
+5952481;"console";1
+5952481;"dont-land-on-v4.x";1
+5952481;"dont-land-on-v6.x";1
+5952481;"ES Modules";3
+5952481;"in progress";1
+5952481;"lib / src";3
+5952481;"module";2
+5952481;"n-api";1
+5952481;"notable-change";1
+5952481;"process";1
+5952481;"python";1
+5952481;"semver-major";1
+5952481;"semver-minor";3
+5952481;"test";1
+5952481;"tools";1
+5952481;"util";2
+5952481;"V8 Engine";1
+5952481;"v9.x";1
+5952481;"vm";2
+7502063;"Bug";2
+7502063;"FrameworkBundle";1
+7502063;"HttpKernel";1
+7502063;"Messenger";1
+7502063;"Security";2
+7502063;"Status: Needs Review";1
+7502063;"Status: Reviewed";3
+8061296;"approved";8
+8061296;"cncf-cla: yes";8
+8061296;"lgtm";8
+8061296;"release-note-none";8
+8061296;"retest-not-required-docs-only";3
+8061296;"size/M";2
+8061296;"size/S";1
+8061296;"size/XS";5
+8225098;"approved";31
+8225098;"area/kubeadm";1
+8225098;"cherrypick-approved";1
+8225098;"cncf-cla: yes";31
+8225098;"do-not-merge/hold";2
+8225098;"kind/bug";4
+8225098;"lgtm";29
+8225098;"needs-rebase";2
+8225098;"priority/critical-urgent";1
+8225098;"priority/important-soon";1
+8225098;"queue/multiple-rebases";1
+8225098;"release-note";7
+8225098;"release-note-none";24
+8225098;"sig/api-machinery";14
+8225098;"sig/cli";1
+8225098;"sig/cluster-lifecycle";1
+8225098;"sig/scheduling";1
+8225098;"size/L";10
+8225098;"size/M";4
+8225098;"size/S";4
+8225098;"size/XL";7
+8225098;"size/XS";1
+8225098;"size/XXL";5
+8225098;"status/approved-for-milestone";2
+8739301;"approved";2
+8739301;"cncf-cla: yes";8
+8739301;"do-not-merge/hold";1
+8739301;"kind/bug";2
+8739301;"lgtm";3
+8739301;"needs-ok-to-test";2
+8739301;"needs-rebase";2
+8739301;"release-note";1
+8739301;"release-note-none";7
+8739301;"sig/scheduling";4
+8739301;"size/L";2
+8739301;"size/M";3
+8739301;"size/S";1
+8739301;"size/XS";2
+8822573;"assert";10
+8822573;"author ready";22
+8822573;"backport-requested-v9.x";2
+8822573;"buffer";1
+8822573;"build";3
+8822573;"C++";3
+8822573;"deprecations";2
+8822573;"dns";1
+8822573;"doc";7
+8822573;"dont-land-on-v10.x";1
+8822573;"dont-land-on-v4.x";3
+8822573;"dont-land-on-v6.x";3
+8822573;"dont-land-on-v8.x";2
+8822573;"dont-land-on-v9.x";2
+8822573;"errors";10
+8822573;"fast-track";4
+8822573;"fs";1
+8822573;"http2";1
+8822573;"in progress";1
+8822573;"invalid";1
+8822573;"lib / src";2
+8822573;"meta";1
+8822573;"notable-change";2
+8822573;"performance";2
+8822573;"process";3
+8822573;"semver-major";8
+8822573;"semver-minor";3
+8822573;"test";6
+8822573;"tools";4
+8822573;"tsc-agenda";1
+8822573;"tsc-review";1
+8822573;"tty";1
+8822573;"util";3
+10393198;"author ready";35
+10393198;"backported-to-v9.x";1
+10393198;"buffer";1
+10393198;"build";1
+10393198;"child_process";1
+10393198;"cli";1
+10393198;"crypto";1
+10393198;"doc";50
+10393198;"dont-land-on-v4.x";2
+10393198;"dont-land-on-v6.x";2
+10393198;"dont-land-on-v9.x";1
+10393198;"events";1
+10393198;"fast-track";39
+10393198;"fs";2
+10393198;"lib / src";1
+10393198;"meta";4
+10393198;"n-api";2
+10393198;"net";1
+10393198;"process";1
+10393198;"refactor to ES6+";2
+10393198;"test";1
+10393198;"timers";1
+10393198;"tools";18
+10393198;"v6.x";1
+10393198;"V8 Engine";1
+10393198;"v8.x";2
+10393198;"v9.x";1
+10393198;"vm";1
+10393198;"zlib";1
+10524058;"approved";4
+10524058;"cncf-cla: yes";4
+10524058;"kind/bug";1
+10524058;"lgtm";4
+10524058;"release-note-none";4
+10524058;"sig/network";1
+10524058;"sig/node";1
+10524058;"size/M";2
+10524058;"size/S";1
+10524058;"size/XL";1
+10743879;"approved";14
+10743879;"cherrypick-approved";7
+10743879;"cncf-cla: yes";14
+10743879;"do-not-merge/cherry-pick-not-approved";1
+10743879;"do-not-merge/hold";1
+10743879;"do-not-merge/release-note-label-needed";1
+10743879;"do-not-merge/work-in-progress";1
+10743879;"kind/bug";4
+10743879;"lgtm";13
+10743879;"milestone/incomplete-labels";5
+10743879;"needs-rebase";1
+10743879;"priority/critical-urgent";3
+10743879;"priority/important-soon";2
+10743879;"release-note-none";13
+10743879;"sig/gcp";2
+10743879;"sig/scalability";1
+10743879;"sig/testing";3
+10743879;"size/L";4
+10743879;"size/M";5
+10743879;"size/S";2
+10743879;"size/XS";3
+10743879;"status/approved-for-milestone";7
+10743879;"¯\_(ツ)_/¯";1
+11657829;"approved";1
+11657829;"cncf-cla: yes";3
+11657829;"kind/feature";1
+11657829;"kind/new-api";1
+11657829;"lgtm";1
+11657829;"lifecycle/stale";1
+11657829;"needs-rebase";1
+11657829;"priority/important-soon";1
+11657829;"release-note";3
+11657829;"sig/scheduling";2
+11657829;"sig/vmware";1
+11657829;"size/L";1
+11657829;"size/M";1
+11657829;"size/XXL";1
+11657829;"status/approved-for-milestone";1
+13374016;"approved";12
+13374016;"cherrypick-approved";2
+13374016;"cncf-cla: yes";19
+13374016;"do-not-merge/cherry-pick-not-approved";2
+13374016;"do-not-merge/hold";1
+13374016;"kind/cleanup";2
+13374016;"lgtm";14
+13374016;"milestone/incomplete-labels";1
+13374016;"needs-rebase";2
+13374016;"release-note";3
+13374016;"release-note-none";16
+13374016;"retest-not-required-docs-only";1
+13374016;"sig/api-machinery";3
+13374016;"sig/testing";1
+13374016;"size/L";3
+13374016;"size/M";5
+13374016;"size/S";4
+13374016;"size/XL";2
+13374016;"size/XS";4
+13374016;"size/XXL";1
+14308438;"approved";6
+14308438;"cncf-cla: yes";6
+14308438;"kind/bug";2
+14308438;"lgtm";6
+14308438;"priority/important-soon";2
+14308438;"release-note";5
+14308438;"release-note-none";1
+14308438;"sig/scalability";1
+14308438;"sig/scheduling";6
+14308438;"size/L";4
+14308438;"size/M";1
+14308438;"size/XL";1
+14308438;"status/approved-for-milestone";2
+15881573;"approved";6
+15881573;"area/kubeadm";6
+15881573;"cncf-cla: yes";10
+15881573;"do-not-merge/cherry-pick-not-approved";1
+15881573;"do-not-merge/hold";2
+15881573;"do-not-merge/release-note-label-needed";1
+15881573;"kind/bug";1
+15881573;"lgtm";6
+15881573;"needs-rebase";4
+15881573;"priority/important-soon";1
+15881573;"release-note";2
+15881573;"release-note-action-required";1
+15881573;"release-note-none";6
+15881573;"sig/cluster-lifecycle";7
+15881573;"sig/network";1
+15881573;"size/L";6
+15881573;"size/M";1
+15881573;"size/S";3
+16024985;"author ready";3
+16024985;"doc";4
+16024985;"fast-track";1
+16024985;"http";1
+16024985;"meta";4
+16105680;"approved";1
+16105680;"cherrypick-approved";1
+16105680;"cncf-cla: yes";1
+16105680;"kind/bug";1
+16105680;"lgtm";1
+16105680;"release-note";1
+16105680;"sig/api-machinery";1
+16105680;"size/XS";1
+16662068;"approved";1
+16662068;"cncf-cla: yes";3
+16662068;"do-not-merge/hold";1
+16662068;"kind/api-change";1
+16662068;"lgtm";1
+16662068;"needs-rebase";1
+16662068;"release-note";2
+16662068;"release-note-none";1
+16662068;"sig/apps";1
+16662068;"sig/auth";1
+16662068;"sig/node";1
+16662068;"size/L";1
+16662068;"size/S";1
+16662068;"size/XXL";1
+18107181;"approved";8
+18107181;"cherrypick-approved";2
+18107181;"cherrypick-candidate";1
+18107181;"cncf-cla: yes";9
+18107181;"kind/api-change";2
+18107181;"kind/bug";3
+18107181;"kind/cleanup";1
+18107181;"kind/feature";1
+18107181;"lgtm";7
+18107181;"lifecycle/stale";1
+18107181;"milestone/needs-approval";2
+18107181;"milestone/removed";1
+18107181;"needs-rebase";1
+18107181;"priority/critical-urgent";1
+18107181;"priority/important-soon";4
+18107181;"release-note";5
+18107181;"release-note-none";3
+18107181;"sig/apps";1
+18107181;"sig/node";1
+18107181;"sig/scheduling";8
+18107181;"size/L";2
+18107181;"size/M";4
+18107181;"size/XL";2
+18107181;"size/XS";1
+18107181;"status/approved-for-milestone";2
+20855209;"approved";9
+20855209;"area/audit";1
+20855209;"cncf-cla: yes";9
+20855209;"kind/cleanup";1
+20855209;"lgtm";9
+20855209;"milestone/needs-approval";1
+20855209;"priority/important-soon";1
+20855209;"release-note-action-required";1
+20855209;"release-note-none";8
+20855209;"retest-not-required-docs-only";1
+20855209;"sig/auth";1
+20855209;"size/S";2
+20855209;"size/XS";7
+22060313;"awaiting testing (then merge)";1
+22060313;"cla: yes";13
+22060313;"kokoro:force-run";1
+24448061;"approved";13
+24448061;"cherrypick-approved";4
+24448061;"cherrypick-candidate";1
+24448061;"cncf-cla: yes";13
+24448061;"kind/bug";3
+24448061;"lgtm";13
+24448061;"milestone/incomplete-labels";1
+24448061;"priority/critical-urgent";3
+24448061;"release-note";3
+24448061;"release-note-none";10
+24448061;"retest-not-required-docs-only";1
+24448061;"sig/scheduling";1
+24448061;"sig/storage";3
+24448061;"size/L";5
+24448061;"size/M";4
+24448061;"size/S";1
+24448061;"size/XS";3
+24448061;"status/approved-for-milestone";3
+29742491;"approved";1
+29742491;"area/security";1
+29742491;"cncf-cla: yes";1
+29742491;"lgtm";1
+29742491;"release-note-none";1
+29742491;"retest-not-required-docs-only";1
+29742491;"size/XS";1
